@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 line fra vscode
+=======
+line fra web
+>>>>>>> 4b36529c4b9bcd47ec33b6c8a5be80201114b01b
